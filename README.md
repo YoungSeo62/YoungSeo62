@@ -5,6 +5,13 @@
 - 영남대학교 수학과(2025~)
 - 영남대학교 컴퓨터공학전공 복수전공(2026~)
 
+## Skills 
+-Python
+
+## Tools
+- Adobe Premiere Pro
+- Adobe Photoshop
+
 ## LinkS
 - Email: youngseo7156@naver.com
-- instagram: co.s3o
+- instagram: @co.s3o
