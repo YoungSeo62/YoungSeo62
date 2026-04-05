@@ -9,6 +9,7 @@
 
 ## Skills 
 - Python
+- Excel(Data Analysis, Visualization)
 
 ## Tools
 - Adobe Premiere Pro
