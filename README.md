@@ -7,6 +7,10 @@
 - 영남대학교 수학과(2025~)
 - 영남대학교 컴퓨터공학전공 복수전공(2026~)
 
+## Experience
+- 스픽 파트너 크리에이터
+- 메가스터디 미북 서포터즈
+
 ## Skills 
 - Python
 - Excel(Data Analysis, Visualization)
